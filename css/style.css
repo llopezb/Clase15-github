@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    background-image: url(../imagenes/naturalblack.png);
+    background-attachment: fixed;
+    background-size: auto;
+    background-position: center top;
+}
+
+h1 {
+    font-family: 'Roboto', cursive;
+}
+
+nav img {
+    width: 100%;
+}
+
+.roboto {
+    font-family: 'Roboto', cursive;
+}
